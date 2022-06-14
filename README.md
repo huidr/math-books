@@ -1,4 +1,4 @@
-## Some Great Mathematics Textbooks and Other Materials
+## Some Great Mathematics Textbooks
 
 These are some of the great books I have studied (or used) during my time at university. The list isn't complete and I'm updating it very soon.
 

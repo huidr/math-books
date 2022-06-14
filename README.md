@@ -1,5 +1,7 @@
 ## Some Great Mathematics Textbooks and Other Materials
 
+These are some of the great books I have studied (or used) during my time at university. The list isn't complete and I'm updating it very soon.
+
 ### Analysis
 
 #### [Principles of Mathematical Analysis](https://www.amazon.com/Principles-Mathematical-Analysis-International-Mathematics/dp/007054235X) by Walter Rudin

@@ -32,3 +32,5 @@ These are some of the great books I have studied (or used) during my time at uni
 
 [Elementary Methods in Number Theory](https://link.springer.com/book/10.1007/b98870#:~:text=Elementary%20Methods%20in%20Number%20Theory%20begins%20with%20%22a%20first%20course,%2C%20prime%20numbers%2C%20and%20congruences) by Melvyn B. Nathanson
 
+[A Classical Introduction to Modern Number Theory](https://link.springer.com/book/10.1007/978-1-4757-2103-4) by Kenneth Ireland, Michael Rosen 
+

@@ -28,7 +28,7 @@ These are some of the great books I have studied (or used) during my time at uni
 
 ### Discrete Mathematics
 
-[Principles and Techniques in Combinatorics](https://books.google.co.in/books/about/Principles_And_Techniques_In_Combinatori.html?id=jBrtCgAAQBAJ&source=kp_book_description&redir_esc=y) by Chuan Chong Chen and Koh Khee Meng
+[Principles and Techniques in Combinatorics](https://books.google.co.in/books/about/Principles_And_Techniques_In_Combinatori.html?id=jBrtCgAAQBAJ&source=kp_book_description&redir_esc=y) by Chuan Chong Chen, Koh Khee Meng
 
 [Elementary Methods in Number Theory](https://link.springer.com/book/10.1007/b98870#:~:text=Elementary%20Methods%20in%20Number%20Theory%20begins%20with%20%22a%20first%20course,%2C%20prime%20numbers%2C%20and%20congruences) by Melvyn B. Nathanson
 

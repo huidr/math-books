@@ -20,6 +20,8 @@ These are some of the great books I have studied (or used) during my time at uni
 
 ### Geometry
 
+[Euclidean and Non-Euclidean Geometries: Development and History](https://books.google.co.in/books/about/Euclidean_and_Non_Euclidean_Geometries.html?id=uCYPZ4nRqy0C&source=kp_book_description&redir_esc=y) by Marvin Jay Greenberg
+
 [Elementary Differential Geometry](https://link.springer.com/book/10.1007/978-1-84882-891-9) by Andrew Pressley
 
 ### Topology

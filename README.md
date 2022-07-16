@@ -36,3 +36,8 @@ These are some of the great books I have studied (or used) during my time at uni
 
 [A Classical Introduction to Modern Number Theory](https://link.springer.com/book/10.1007/978-1-4757-2103-4) by Kenneth Ireland, Michael Rosen 
 
+### Theoretical Computer Science
+
+[Introduction to Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation) by Michael Sipser
+
+

@@ -18,6 +18,11 @@ These are some of the great books I have studied (or used) during my time at uni
 
 [Abstract Algebra](https://www.amazon.com/Abstract-Algebra-3rd-David-Dummit/dp/0471433349) by David S. Dummit and Richard M. Foote
 
+### Category Theory
+
+[Basic Category Theory](https://arxiv.org/pdf/1612.09375.pdf) by Tom Leinster
+
+
 ### Geometry
 
 [Euclidean and Non-Euclidean Geometries: Development and History](https://books.google.co.in/books/about/Euclidean_and_Non_Euclidean_Geometries.html?id=uCYPZ4nRqy0C&source=kp_book_description&redir_esc=y) by Marvin Jay Greenberg

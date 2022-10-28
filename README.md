@@ -29,6 +29,8 @@ These are some of the great books I have studied (or used) during my time at uni
 
 [Elementary Differential Geometry](https://link.springer.com/book/10.1007/978-1-84882-891-9) by Andrew Pressley
 
+[An Introduction to Manifolds](https://link.springer.com/book/10.1007/978-1-4419-7400-6) by Loring Tu
+
 ### Topology
 
 [General Topology](https://books.google.co.in/books/about/General_Topology.html?id=-o8xJQ7Ag2cC&source=kp_book_description&redir_esc=y) by Stephen Willard
